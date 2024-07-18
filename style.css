@@ -576,4 +576,10 @@ header.sticky{
     .contact .action form input[type="email"]{
         width: 300px;
     }
+    .home-text p{
+        width: 370px;
+    }
+    #menu-icon{
+        margin-right: 20px;
+    }
 }
